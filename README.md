@@ -1,7 +1,7 @@
-- 👋 Hi, I’m Antonios-Sotiriou,i am from Greece but currently i live and work in Austria in the Gastronomy sector.
+- 👋 Hi, I’m Antonios-Sotiriou, i am from Greece but currently i live and work in Austria in the Gastronomy sector.
 - 👀 I’m interested in everythink that has to do with computer science, from electricity input to web development.
-- 🌱 I’m currently learning C programming language and i can say for sure that i like it very much.
-- 💞️ I’m looking to collaborate on C programming language projects,to sharpen my skills.Also Python and javascript projects would be awesome.
+- 🌱 Currently i am developing my own game 3d engine with c. I am willing to publish my own games in the future.
+- 💞️ I’m looking to collaborate on C programming language projects,to sharpen my skills.
 - 📫 How to reach me? Through my email which is antonios.sotiriou@hotmail.gr
 
 <!---
